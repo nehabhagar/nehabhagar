@@ -28,6 +28,6 @@ Bridging front-line operational execution, commercial sales discipline, and data
 
 ### 📬 Connect With Me
 
-- - **LinkedIn:** [linkedin.com/in/neha-bhagar](www.linkedin.com/in/neha-bhagar-3795b0246)
+- - **LinkedIn:** [linkedin.com/in/neha-bhagar](https://www.linkedin.com/in/neha-bhagar-3795b0246/?isSelfProfile=true))
   - - **Portfolio:** Interactive dashboards hosted on GitHub
 - **Email:** nehabhagar97@gmail.com
